@@ -1,0 +1,14 @@
+D:\visualStudio\DIOCadastro\DIOCadastro\obj\Debug\DIOCadastro.csproj.AssemblyReference.cache
+D:\visualStudio\DIOCadastro\DIOCadastro\obj\Debug\DIOCadastro.csproj.CoreCompileInputs.cache
+D:\visualStudio\DIOCadastro\DIOCadastro\bin\Debug\DIOCadastro.exe.config
+D:\visualStudio\DIOCadastro\DIOCadastro\bin\Debug\DIOCadastro.exe
+D:\visualStudio\DIOCadastro\DIOCadastro\bin\Debug\DIOCadastro.pdb
+D:\visualStudio\DIOCadastro\DIOCadastro\obj\Debug\DIOCadastro.exe
+D:\visualStudio\DIOCadastro\DIOCadastro\obj\Debug\DIOCadastro.pdb
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\bin\Debug\DIOCadastro.exe.config
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\bin\Debug\DIOCadastro.exe
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\bin\Debug\DIOCadastro.pdb
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\obj\Debug\DIOCadastro.csproj.AssemblyReference.cache
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\obj\Debug\DIOCadastro.csproj.CoreCompileInputs.cache
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\obj\Debug\DIOCadastro.exe
+C:\Users\wiljr\Desktop\.NET_CadastroSeries_DIO\DIOCadastro\obj\Debug\DIOCadastro.pdb
